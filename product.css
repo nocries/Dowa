@@ -136,3 +136,8 @@ h2 {
 li {
   margin-bottom: 10px;
 }
+
+nav {
+  max-width: 100%;
+}
+
