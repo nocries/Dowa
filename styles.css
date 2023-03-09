@@ -34,3 +34,8 @@ a {
 a:hover {
 	text-decoration: underline;
 }
+
+nav {
+  max-width: 100%;
+}
+
